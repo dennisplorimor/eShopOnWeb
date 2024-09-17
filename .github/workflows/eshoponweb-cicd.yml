@@ -9,7 +9,7 @@ env:
   LOCATION: eastus
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: 1e4add2b-a73a-457d-b9e1-6612f3f1d809
-  WEBAPP-NAME: eshoponweb-webapp-dpl
+  WEBAPP-NAME: eshoponweb-webapp-dennisplorimor
 
 
 jobs:
